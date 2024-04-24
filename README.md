@@ -1,10 +1,10 @@
 # Hi there, I'm Adel Soliman / CodeTrailblazer!
 
 <p align='center'>
-   <a href="(https://discord.com/codetrailblazer304)">
+   <a href="[https://discord.com/codetrailblazer304](https://discord.com/codetrailblazer304)">
      <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&countColor=white" alt="Discord badge" />
   </a>&nbsp;&nbsp;
-  <a href="(https://www.linkedin.com/in/adel-soliman-40144425a)">
+  <a href="[https://www.linkedin.com/in/adel-soliman-40144425a](https://www.linkedin.com/in/adel-soliman-40144425a)">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>&nbsp;&nbsp;
 </p>
