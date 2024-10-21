@@ -6,11 +6,13 @@
 
 Hello! I'm a *Backend Software Engineer* specializing in building reliable, efficient backend systems for *web pages and applications. I have strong expertise in **JavaScript* and *Python*, focusing on creating high-performance APIs, database management, and ensuring seamless integrations between frontend and backend.
 
+In addition to my work as a developer, I'm also a content creator, sharing insights about software engineering and life in general through various platforms like YouTube and Instagram.
+
 - 🔭 I’m currently working on: Developing scalable backend systems for web applications.
 - 🌱 I’m currently learning: Advanced asynchronous programming in JavaScript and Python, and cloud-based deployments.
 - 👯 I’m looking to collaborate on: Backend development for dynamic web applications and API integrations.
 - 💬 Ask me about: *Node.js, Express, Django, REST APIs, and database optimization*.
-- 📫 How to reach me: [codetrailblazer8@gmail.com](codetrailblazer8@gmail.com)
+- 📫 How to reach me: [codetrailblazer8@gmail.com](mailto:codetrailblazer8@gmail.com)
 - ⚡ Fun fact: I love optimizing complex queries and creating seamless data flows between services!
 
 ## 🛠 Technologies & Tools
@@ -38,6 +40,13 @@ Hello! I'm a *Backend Software Engineer* specializing in building reliable, effi
 - Designed and implemented scalable *REST APIs* for web and mobile applications.
 - Developed *backend architectures* that support high-traffic websites with seamless performance.
 - Optimized database queries and *improved response times by 40%* in several web projects.
+
+## 🎥 Content Creation
+
+Along with coding, I enjoy creating content about software engineering, coding tips, and life experiences. You can check out my videos and posts here:
+
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/CodeTrailblazer) 
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/solimanadel304)
 
 ## 📫 Connect with me
 
