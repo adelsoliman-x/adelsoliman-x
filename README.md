@@ -10,7 +10,7 @@ Hello! I'm a *Backend Software Engineer* specializing in building reliable, effi
 - 🌱 I’m currently learning: Advanced asynchronous programming in JavaScript and Python, and cloud-based deployments.
 - 👯 I’m looking to collaborate on: Backend development for dynamic web applications and API integrations.
 - 💬 Ask me about: *Node.js, Express, Django, REST APIs, and database optimization*.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [codetrailblazer8@gmail.com](codetrailblazer8@gmail.com)
 - ⚡ Fun fact: I love optimizing complex queries and creating seamless data flows between services!
 
 ## 🛠 Technologies & Tools
@@ -41,9 +41,9 @@ Hello! I'm a *Backend Software Engineer* specializing in building reliable, effi
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adel-soliman-40144425a)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/solimanadel304)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codetrailblazer8@gmail.com)
 
 ---
 
