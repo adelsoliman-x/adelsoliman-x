@@ -16,8 +16,8 @@ Welcome to my GitHub! I’m Adel, a dedicated IT professional with over 4 years 
 - **Languages**: English (B1+), German (B1), Arabic (native)
 
 ## 🛠 Technical Skills
-- **Programming**: HTML, CSS, JavaScript, React, Node.js, Python, Django, SQL
 - **Systems & Networking**: Cisco CCNA, MCSA, Linux, Windows, Unix, Networking, Troubleshooting
+- **Programming**: HTML, CSS, JavaScript, Node.js, Python, C, SQL
 - **Tools & Software**: Git, GitHub, Microsoft Excel, Word, Photoshop, Simple Touch
 
 ---
@@ -26,9 +26,6 @@ Welcome to my GitHub! I’m Adel, a dedicated IT professional with over 4 years 
 
 ### IT Support Project 🌐
 - **Network Infrastructure Setup**: Designed and implemented a robust network infrastructure for a real estate company with multiple branches, supporting over 25 computers. The project focused on enhancing connectivity, reliability, and security across locations.
-
-### Full-Stack E-commerce Platform 💻 (In Progress)
-- A comprehensive full-stack e-commerce project utilizing React, Node.js, and Django. This project will showcase my skills in back-end development and user-centered design. Stay tuned as I add new features!
 
 ### Software Engineering Projects
 - Explore my GitHub repositories to see various projects, ranging from front-end to back-end applications. These projects reflect my coding skills, attention to detail, and commitment to continuous improvement.
