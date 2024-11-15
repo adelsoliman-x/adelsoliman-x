@@ -1,62 +1,42 @@
-# Welcome to Codetrailblazer304's GitHub 👋
+# Hi, I'm Adel Soliman 👋 | CodeTrailblazer304
 
-![Profile Views](https://komarev.com/ghpvc/?username=codetrailblazer304&style=flat-square)
+IT Technical Support Specialist | Software Developer | Lifelong Learner
 
-## 🚀 About Me
-
-Hello! I'm a *Backend Software Engineer* specializing in building reliable, efficient backend systems for *web pages and applications. I have strong expertise in **JavaScript* and *Python*, focusing on creating high-performance APIs, database management, and ensuring seamless integrations between frontend and backend.
-
-In addition to my work as a developer, I'm also a content creator, sharing insights about software engineering and life in general through various platforms like YouTube and Instagram.
-
-- 🔭 I’m currently working on: Developing scalable backend systems for web applications.
-- 🌱 I’m currently learning: Advanced asynchronous programming in JavaScript and Python, and cloud-based deployments.
-- 👯 I’m looking to collaborate on: Backend development for dynamic web applications and API integrations.
-- 💬 Ask me about: *Node.js, Express, Django, REST APIs, and database optimization*.
-- 📫 How to reach me: [codetrailblazer8@gmail.com](mailto:codetrailblazer8@gmail.com)
-- ⚡ Fun fact: I love optimizing complex queries and creating seamless data flows between services!
-
-## 🛠 Technologies & Tools
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp; 
-
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-## 📊 GitHub Stats
-
-![Codetrailblazer304's GitHub stats](https://github-readme-stats.vercel.app/api?username=codetrailblazer304&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetrailblazer304&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-- Designed and implemented scalable *REST APIs* for web and mobile applications.
-- Developed *backend architectures* that support high-traffic websites with seamless performance.
-- Optimized database queries and *improved response times by 40%* in several web projects.
-
-## 🎥 Content Creation
-
-Along with coding, I enjoy creating content about software engineering, coding tips, and life experiences. You can check out my videos and posts here:
-
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/CodeTrailblazer) 
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/solimanadel304)
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adel-soliman-40144425a)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/solimanadel304)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codetrailblazer8@gmail.com)
+Welcome to my GitHub! I’m Adel, a dedicated IT professional with over 4 years of experience in technical support and a strong foundation in software development. My goal is to leverage my troubleshooting skills, coding abilities, and customer-focused mindset to create efficient, reliable, and user-friendly solutions.
 
 ---
 
-⭐ From [codetrailblazer304](https://github.com/codetrailblazer304)
+## 🔧 About Me
+- **Current Role**: IT Support Specialist at Teleperformance, where I provide responsive, accurate technical support and troubleshooting.
+- **Experience**: Extensive hands-on experience with IT support, network setup, and system administration.
+- **Education**:  
+  - Pursuing a Bachelor’s in Computer Science at IU
+  - Completed Cisco CCNA and MCSA courses for a deeper understanding of networking and system administration
+  - ALX Software Engineering Diploma and Google IT Support Professional Certificate
+- **Languages**: English (B1+), German (B1), Arabic (native)
+
+## 🛠 Technical Skills
+- **Programming**: HTML, CSS, JavaScript, React, Node.js, Python, Django, SQL
+- **Systems & Networking**: Cisco CCNA, MCSA, Linux, Windows, Unix, Networking, Troubleshooting
+- **Tools & Software**: Git, GitHub, Microsoft Excel, Word, Photoshop, Simple Touch
+
+---
+
+## 🚀 Featured Projects
+
+### IT Support Project 🌐
+- **Network Infrastructure Setup**: Designed and implemented a robust network infrastructure for a real estate company with multiple branches, supporting over 25 computers. The project focused on enhancing connectivity, reliability, and security across locations.
+
+### Full-Stack E-commerce Platform 💻 (In Progress)
+- A comprehensive full-stack e-commerce project utilizing React, Node.js, and Django. This project will showcase my skills in back-end development and user-centered design. Stay tuned as I add new features!
+
+### Software Engineering Projects
+- Explore my GitHub repositories to see various projects, ranging from front-end to back-end applications. These projects reflect my coding skills, attention to detail, and commitment to continuous improvement.
+
+---
+
+## 🤝 Let’s Connect!
+
+I’m always excited to connect with other tech enthusiasts, share knowledge, and work on innovative projects. Feel free to reach out on LinkedIn or check out my portfolio to learn more about my work.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adel%20Soliman-blue)](https://www.linkedin.com/in/adel-soliman-40144425a/)
