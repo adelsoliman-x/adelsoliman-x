@@ -42,7 +42,20 @@ Explore my repositories to find:
 - A few experiments that didn’t blow up (mostly).
 
 ---
+## 📊 GitHub Stats
 
+![Codetrailblazer304's GitHub stats](https://github-readme-stats.vercel.app/api?username=codetrailblazer304&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetrailblazer304&layout=compact&theme=radical)
+
+---
+## 🎥 Content Creation
+
+Along with coding, I enjoy creating content about software engineering, coding tips, and life experiences. You can check out my videos and posts here:
+
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/CodeTrailblazer) 
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/solimanadel304)
+
+---
 ## 🌟 Fun Facts About Me
 - 🌍 Trilingual-ish: I speak Arabic (native), English (B1+), and German (B2)!  
 - 🐧 Linux is my jam, but I’ll fix your Windows too.  
