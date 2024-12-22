@@ -14,7 +14,7 @@ In addition to my work as a developer, I'm also a **content creator**, sharing k
 - 🌱 I’m currently learning: Advanced cloud deployment strategies and fine-tuning performance for large-scale systems.
 - 👯 I’m looking to collaborate on: Backend projects and community-driven platforms.
 - 💬 Ask me about: **Node.js, Django, REST APIs, and database optimization**.
-- 📫 How to reach me: [your-email@example.com](mailto:codetrailblazer8@gmail.com)
+- 📫 How to reach me: [codetrailblazer8@gmail.com](mailto:codetrailblazer8@gmail.com)
 - ⚡ Fun fact: I enjoy turning complex backend challenges into simple, elegant solutions!
 
 ---
