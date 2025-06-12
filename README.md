@@ -1,59 +1,63 @@
-# Welcome to Codetrailblazer304's GitHub 👋
+# 👋 Welcome to Codetrailblazer304's GitHub
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codetrailblazer304&style=flat-square)
 
 ## 🚀 About Me
 
-Hello! I’m a **Software Engineer** with a strong focus on building scalable, efficient backend systems. My expertise spans **JavaScript**, **Python**, **Node.js**, **Django**, **React**, **HTML**, **CSS**, and other cutting-edge technologies to build high-performing applications. I'm passionate about optimizing APIs, designing robust database architectures, and implementing secure, scalable solutions for real-world challenges.
+I'm a *Software Engineer* specialized in building and customizing *CRM* and *ERP* systems, and the *Founder & CEO of [DeepSightX](https://deepsightx.com)* – a software solutions company focused on scalable, intelligent systems.
 
-Alongside my software engineering work, I share insights on **technology**, **software development best practices**, and **professional growth** through my content creation across platforms like YouTube and Instagram.
+Currently, I'm leading the development of *Edupath*, a smart and modular educational platform built to enhance the learning experience across institutions and training centers.
 
-- 🔭 Currently working on: Developing a **blog platform** designed to offer superior performance and security, while maintaining a great user experience.
-- 🌱 Currently learning: Advanced **cloud deployment strategies** and **performance optimization** for large-scale systems.
-- 👯 Looking to collaborate on: Backend projects, microservices architecture, and innovative community-driven platforms.
-- 💬 Ask me about: **REST APIs**, **Node.js**, **Database design & optimization**, **React**, and **frontend frameworks**.
-- 📫 Reach out via email: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I thrive on solving complex backend problems and turning them into simple, elegant solutions.
+### 💼 My focus includes:
+- Enterprise systems development (CRM & ERP)
+- LMS platforms with adaptive learning and analytics
+- API architecture, cloud deployments, and secure backend solutions
+- Customizing platforms like *Odoo* for business-specific needs
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📌 DeepSightX
+
+> DeepSightX delivers high-impact software solutions tailored to the education, health, and business sectors using the latest web technologies and data-driven strategies.
+
+🌐 Visit: [https://deepsightx.com](https://deepsightx.com)
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 
 ### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)&nbsp;
-![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=flat&logo=odoo)
 
 ---
 
-## 🌟 Featured Project: Blog Platform
+## 🎓 Featured Project: Edupath
 
-I am building a **blog platform** with a focus on:
-- **Customizable themes** for users to personalize their experience.
-- **Secure user authentication** and role-based access control.
-- **Real-time content updates** using WebSockets.
-- Integrated **analytics** for tracking user behavior and engagement.
+*Edupath* is a smart, adaptable educational platform built to:
+- Track learner journeys and progress
+- Provide insightful analytics and AI-driven recommendations
+- Support schools, universities, and training centers
+- Offer a scalable and fully customizable architecture
 
-Stay tuned for updates and the repository coming soon!
+> 📢 Public release coming soon – stay tuned!
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Codetrailblazer304's GitHub stats](https://github-readme-stats.vercel.app/api?username=codetrailblazer304&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codetrailblazer304&layout=compact&theme=radical)
@@ -62,19 +66,19 @@ Stay tuned for updates and the repository coming soon!
 
 ## 🎥 Content Creation
 
-When I’m not coding, I create content about **software engineering**, **tech tutorials**, and **personal development**. Here’s where you can find me:
+In addition to development, I share knowledge on software engineering, technology trends, and professional development through various platforms.
 
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel) 
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/CodeTrailblazer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname)\
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/CodeTrailblazer)\
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codetrailblazer304@gmail.com)
 
 ---
 
-⭐️ From [codetrailblazer304](https://github.com/codetrailblazer304)
+⭐ From [codetrailblazer304](https://github.com/codetrailblazer304)
