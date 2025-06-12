@@ -1,18 +1,18 @@
-# 👋 Welcome to Codetrailblazer304's GitHub
+# 👋 Welcome to Adel Soliman's GitHub
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codetrailblazer304&style=flat-square)
 
 ## 🚀 About Me
 
-I'm a *Software Engineer* specialized in building and customizing *CRM* and *ERP* systems, and the *Founder & CEO of [DeepSightX](https://deepsightx.com)* – a software solutions company focused on scalable, intelligent systems.
+I'm a *Software Engineer* specialized in building and customizing *CRM*, *ERP* systems, and *SaaS Platforms*, and the *Founder & CEO of [DeepSightX](https://deepsightx.com)* – a software solutions company focused on scalable, intelligent systems.
 
 Currently, I'm leading the development of *Edupath*, a smart and modular educational platform built to enhance the learning experience across institutions and training centers.
 
 ### 💼 My focus includes:
-- Enterprise systems development (CRM & ERP)
+- Enterprise systems development (CRM, ERP, and SaaS Platforms)
 - LMS platforms with adaptive learning and analytics
 - API architecture, cloud deployments, and secure backend solutions
-- Customizing platforms like *Odoo* for business-specific needs
+- Customizing platforms for business-specific needs
 
 ---
 
@@ -41,7 +41,6 @@ Currently, I'm leading the development of *Edupath*, a smart and modular educati
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=flat&logo=odoo)
 
 ---
 
@@ -69,15 +68,15 @@ Currently, I'm leading the development of *Edupath*, a smart and modular educati
 In addition to development, I share knowledge on software engineering, technology trends, and professional development through various platforms.
 
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adelsoliman-x)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourname)\
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/CodeTrailblazer)\
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:codetrailblazer304@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adel-soliman-957129355)\
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter)](https://twitter.com/adelsoliman-x)\
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:solimanadel304@gmail.com)
 
 ---
 
