@@ -48,10 +48,10 @@ I am a full-stack engineer and solo technical founder building **eBayan**, a glo
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/اكتب_اسم_اليوزر_بتاعك_هنا" target="_blank">
+  <a href="https://linkedin.com/in/adel-soliman-20a754403" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/اكتب_يوزر_تويتر_هنا" target="_blank">
+  <a href="https://x.com/AdelSoliman__" target="_blank">
     <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
